@@ -1,3 +1,4 @@
+package ds.ll;
 public class LinkedList {
     private Node head;
 
