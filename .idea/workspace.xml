@@ -4,27 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee4c773b-b170-4e91-a528-a34b85179dd8" name="Changes" comment="">
+    <list default="true" id="ee4c773b-b170-4e91-a528-a34b85179dd8" name="Changes" comment="code uploaded">
+      <change afterPath="$PROJECT_DIR$/src/ReverseInt32Bit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinarySearch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/BinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinarySearchTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinaryTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CircularLL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CircularLL.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DoublyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DoublyLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinearSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinearSearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MemoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MemoryTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ReverseArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReverseArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StaticQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StaticQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SwapArrayElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwapArrayElements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TowerOfHanoi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TowerOfHanoi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ds/ll/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ds/ll/LinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/print.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/print.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test2.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +52,18 @@
       <option name="presentableId" value="Default" />
       <updated>1676880791289</updated>
     </task>
+    <task id="LOCAL-00001" summary="code uploaded">
+      <created>1698330322303</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698330322303</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="code uploaded" />
+    <option name="LAST_COMMIT_MESSAGE" value="code uploaded" />
   </component>
 </project>
