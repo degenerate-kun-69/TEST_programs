@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee4c773b-b170-4e91-a528-a34b85179dd8" name="Changes" comment="binary search tree+ 32bit int reversal">
-      <change afterPath="$PROJECT_DIR$/src/BubbleSort.java" afterDir="false" />
+    <list default="true" id="ee4c773b-b170-4e91-a528-a34b85179dd8" name="Changes" comment="Added SelectionSort">
+      <change afterPath="$PROJECT_DIR$/src/InsertionSort.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/PatternGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ds/ll/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ds/ll/LinkedList.java" afterDir="false" />
     </list>
@@ -67,7 +66,7 @@
       <workItem from="1699696185664" duration="48000" />
       <workItem from="1700319891873" duration="92000" />
       <workItem from="1700570012764" duration="400000" />
-      <workItem from="1700922663128" duration="887000" />
+      <workItem from="1700922663128" duration="3249000" />
     </task>
     <task id="LOCAL-00001" summary="code uploaded">
       <created>1698330322303</created>
@@ -83,7 +82,23 @@
       <option name="project" value="LOCAL" />
       <updated>1699366280794</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added bubblesort">
+      <option name="closed" value="true" />
+      <created>1700923904213</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1700923904213</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added SelectionSort">
+      <option name="closed" value="true" />
+      <created>1700933161514</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1700933161514</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,6 +107,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="code uploaded" />
     <MESSAGE value="binary search tree+ 32bit int reversal" />
-    <option name="LAST_COMMIT_MESSAGE" value="binary search tree+ 32bit int reversal" />
+    <MESSAGE value="Added bubblesort" />
+    <MESSAGE value="Added SelectionSort" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added SelectionSort" />
   </component>
 </project>
