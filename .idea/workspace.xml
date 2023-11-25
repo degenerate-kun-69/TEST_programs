@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee4c773b-b170-4e91-a528-a34b85179dd8" name="Changes" comment="Added SelectionSort">
-      <change afterPath="$PROJECT_DIR$/src/InsertionSort.java" afterDir="false" />
+    <list default="true" id="ee4c773b-b170-4e91-a528-a34b85179dd8" name="Changes" comment="Added InsertionSort">
+      <change afterPath="$PROJECT_DIR$/src/MergeSort.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/PatternGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ds/ll/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ds/ll/LinkedList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,7 +65,7 @@
       <workItem from="1699696185664" duration="48000" />
       <workItem from="1700319891873" duration="92000" />
       <workItem from="1700570012764" duration="400000" />
-      <workItem from="1700922663128" duration="3249000" />
+      <workItem from="1700922663128" duration="4102000" />
     </task>
     <task id="LOCAL-00001" summary="code uploaded">
       <created>1698330322303</created>
@@ -98,7 +97,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700933161514</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added InsertionSort">
+      <option name="closed" value="true" />
+      <created>1700933445952</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1700933445952</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,6 +116,7 @@
     <MESSAGE value="binary search tree+ 32bit int reversal" />
     <MESSAGE value="Added bubblesort" />
     <MESSAGE value="Added SelectionSort" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added SelectionSort" />
+    <MESSAGE value="Added InsertionSort" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added InsertionSort" />
   </component>
 </project>
