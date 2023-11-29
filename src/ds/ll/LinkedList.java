@@ -4,8 +4,8 @@ public class LinkedList {
 
     private Node tail;
     private int size;
-    private class Node{
-        private int value;
+    private static class Node{
+        private final int value;
         private Node next;
         public Node(int value){
             this.value=value;

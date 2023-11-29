@@ -1,6 +1,6 @@
 class BinarySearchTree {
-    public class Node {
-        private int value;
+    public static class Node {
+        private final int value;
         private Node left;
         private Node right;
         private int height;
@@ -43,8 +43,8 @@ class BinarySearchTree {
     }
 
     public void populate(int[] nums) {
-        for (int i = 0; i < nums.length; i++) {
-            this.insert(nums[i]);
+        for (int num : nums) {
+            this.insert(num);
         }
     }
 
