@@ -4,9 +4,14 @@ public class LinkedList {
 
     private Node tail;
     private int size;
-    private static class Node{
-        private final int value;
-        private Node next;
+
+    public Node getHead() {
+        return get(0);
+    }
+
+    public static class Node{
+        public final int value;
+        public Node next;
         public Node(int value){
             this.value=value;
         }
@@ -98,6 +103,8 @@ public class LinkedList {
         }
         System.out.print("End");
     }
+}
+class run {
     public static void main(String[] args) {
         LinkedList list1 = new LinkedList();
         list1.insertAtBeg(1);
@@ -106,7 +113,7 @@ public class LinkedList {
         list1.insertAtBeg(4);
         list1.insertAtBeg(5);
         list1.insertAtEnd(0);
-        list1.insertAtPos(17,3);
+        list1.insertAtPos(17, 3);
         list1.display();
         list1.delAtBeg();
         list1.display();
